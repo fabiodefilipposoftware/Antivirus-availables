@@ -16,6 +16,8 @@
 
 [HydraDragonAntivirus](https://github.com/HydraDragonAntivirus/HydraDragonAntivirus)
 
+[Loki](https://github.com/Neo23x0/Loki)
+
 [MacAfee](https://www.mcafee.com/it-it/antivirus/gratis.html)
 
 [MalwareBytes](https://www.malwarebytes.com/it/mwb-download)
