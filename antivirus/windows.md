@@ -4,6 +4,10 @@
 
 [BitDefender](https://www.bitdefender.com/it-it/consumer/free-antivirus)
 
+[clamav](https://github.com/Cisco-Talos/clamav)
+
+[CppAntivirus](https://github.com/kecalek13/CppAntiVirus)
+
 [EmergencyDownloader](https://github.com/egoistpizza/EmergencyDownloader)
 
 [Eset Nod32](https://www.eset.com/it/privati/antivirus/download/)
@@ -24,9 +28,13 @@
 
 [SecureGuard](https://github.com/HUGOW04/SecureGuard)
 
+[SentinelXP](https://github.com/C0m3b4ck/SentinelXP)
+
 [Sophos](https://home.sophos.com/it-it/download-pc-security)
 
 [SpringAlpha](https://github.com/JackyMark0w0/SpringAlpha)
+
+[avsuite](https://github.com/teohumble1/avsuite)
 
 [TinyAntivirus](https://github.com/develbranch/TinyAntivirus)
 
